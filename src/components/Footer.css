@@ -1,0 +1,21 @@
+.footer {
+    padding: 30px 4%;
+    max-width: 1000px;
+    margin: 0 auto;
+    
+  }
+  
+  .footer ul {
+      display: grid; 
+      grid-template-columns: repeat(4, auto);
+      gap: 15px;
+      margin-bottom: 30px;
+      list-style: none;
+      font-size: 0.8rem;
+      
+  }
+  .copyright-text {
+      color: gray;
+      font-size: 14px;
+  }
+  

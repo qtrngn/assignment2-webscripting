@@ -1,0 +1,82 @@
+.site-header {
+    padding: 10px 0;
+    background-color: #bb9457;
+    position: relative;
+  }
+  
+  .col-3 img {
+    max-height: 90px;
+    width: auto;
+    padding: 1rem 0;
+  }
+  
+  .header-menu {
+    display: flex;
+    justify-self: end;
+  }
+  
+  .header-menu a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #99582a;
+    font-size: 1rem;
+  }
+  
+  .header-menu a:hover {
+    color: #ffe6a7;
+  }
+  
+  .inline-menu {
+    list-style-type: none;
+    cursor: pointer;
+    padding: 2rem 0;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+  }
+  
+  .menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #99582a;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .menu-toggle {
+      display: block;
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+    }
+
+    .header-menu {
+      display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background-color: #bb9457;
+      padding: 1rem;
+      width: 100%;
+      text-align: right;
+    }
+  
+    .header-menu.open {
+      display: block;
+    }
+  
+    .inline-menu {
+      flex-direction: column;
+      padding: 0;
+      gap: 1rem;
+    }
+  
+    .header-menu a {
+      font-size: 1.2rem;
+      display: block;
+      padding: 0.5rem 0;
+    }
+  }
+  

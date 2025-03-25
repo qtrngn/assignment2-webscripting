@@ -1,0 +1,63 @@
+[
+    {
+      "id": "ps001",
+      "title": "Pawfect Grooming",
+      "description": "Give your furry friend the royal treatment with our spa-style grooming service, including brushing, bathing, and trimming.",
+      "image": "/images/grooming.jpeg"
+    },
+    {
+      "id": "ps002",
+      "title": "Happy Tails Dog Walking",
+      "description": "Our experienced walkers will keep your pup active and happy with fun and safe neighborhood walks.",
+      "image": "/images/walking.jpeg"
+    },
+    {
+      "id": "ps003",
+      "title": "Cozy Paws Pet Sitting",
+      "description": "Going out of town? Let your pets stay comfortable at home with our reliable and loving pet sitters.",
+      "image": "/images/sitting.jpeg"
+    },
+    {
+      "id": "ps004",
+      "title": "Fur Baby Training Camp",
+      "description": "Basic obedience and fun tricks taught with patience and positive reinforcement, for dogs of all ages.",
+      "image": "/images/camp.jpeg"
+    },
+    {
+      "id": "ps005",
+      "title": "Whisker Wash Mobile Spa",
+      "description": "A fully-equipped mobile grooming van that comes to your doorstep—stress-free grooming for cats and dogs.",
+      "image": "/images/spa.jpeg"
+    },
+    {
+      "id": "ps006",
+      "title": "Paws & Play Daycare",
+      "description": "Socialize, play, and nap! Our supervised pet daycare is the perfect place for pets to spend their day.",
+      "image": "/images/daycare.jpeg"
+    },
+    {
+      "id": "ps007",
+      "title": "TailWag Taxi",
+      "description": "Pet transportation made easy. We safely get your pets to and from appointments, parks, or boarding.",
+      "image": "/images/taxi.jpeg"
+    },
+    {
+      "id": "ps008",
+      "title": "Meow Manor Boarding",
+      "description": "Luxury boarding for cats with private suites, cozy beds, and plenty of playtime and cuddles.",
+      "image": "/images/boarding.jpeg"
+    },
+    {
+      "id": "ps009",
+      "title": "Bark & Brush Express",
+      "description": "Quick, convenient grooming packages for pups on the go—includes shampoo, dry, and light brushing.",
+      "image": "/images/groomingpack.jpeg"
+    },
+    {
+      "id": "ps010",
+      "title": "Pet Portraits by Poppy",
+      "description": "Capture the personality of your pet with professional outdoor or indoor photography sessions.",
+      "image": "/images/photo.jpeg"
+    }
+   
+  ]
