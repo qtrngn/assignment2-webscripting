@@ -1,7 +1,6 @@
 import React from "react";
 import ServiceCard from "../components/ServiceCards";
 import services from "../data/services.json";
-import Footer from "../components/Footer"
 import './Services.css'
 
 const Services = () => {
@@ -19,9 +18,6 @@ const Services = () => {
           />
         ))}
       </div>
-    </section>
-    <section>
-      <Footer />
     </section>
     </>
   );
