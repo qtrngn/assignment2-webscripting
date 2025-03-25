@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Hero from "../assets/hero.png";
 import "./Home.css";
-import Footer from "../components/Footer"
 import ServiceCard from "../components/ServiceCards";
 import services from "../data/services.json";
 
